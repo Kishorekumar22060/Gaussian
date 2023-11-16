@@ -1,5 +1,5 @@
-## EX5- Gaussian Elimination
-## Date-13.09.2023
+## EX6- Gaussian Elimination
+## Date-22.09.2023
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
